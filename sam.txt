@@ -1,0 +1,6 @@
+f
+5
+o
+q1file.txt
+R
+1 2 5
