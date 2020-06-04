@@ -1,4 +1,4 @@
-# Pa2
+# PA2
 
 Second programming assignment for the Intro to Software Engineering class. 
 The assingment covered the basics of c++, pointers and arrays. 
